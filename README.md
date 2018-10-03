@@ -1,10 +1,10 @@
 # MindHealth
 
-### TODO
+## To Do List
 --------------
 
-For Jansen
-==========
+### Jansen
+--------------
 * Install dependencies for Express and setup server on PORT 8000.
 * Write a route to serve an HTML page when visiting http://localhost:8000/.
 
